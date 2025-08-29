@@ -1,5 +1,9 @@
 이 글은 내용을 정리하고 개인적인 사견을 첨가한 2차 창작물이며, 강의 및 강의자료(코드 등)에 대한 저작권은 원본 및 원작자에게 있고 공유하지 않음.
 
+---
+
+---
+
 # 🗂강의 자료
 
 [수업 자료](https://www.notion.so/258ccfa5855c80d5b6fafd7c535bf24d?pvs=21)
@@ -112,6 +116,10 @@
 - 아이디어를 찾을땐 기깔나는걸 '찾기' 보단, 주변에서 느끼는 불편함을 '발견'하는게 빠름
 - (1주차 미션 설명)
 
+### 1주차 미션
+
+- (미션 제출칸)
+
 # 📋메모
 
 - 
@@ -124,4 +132,9 @@
 
 - https://yozm.wishket.com/magazine/detail/2826
 - https://www.codestates.com/blog/content/prd-%EC%A0%9C%ED%92%88%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C
+- 
+
+# ➕Appendix
+
+- [Lovable](https://lovable.dev/)
 -
